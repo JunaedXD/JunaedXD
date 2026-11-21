@@ -37,7 +37,7 @@ currently_learning:
   - Backend Development
   - AI / ML
 
-dream: Become an Astronaut 🚀
+dream: dreaming something big 🚀
 mindset: Build. Experiment. Innovate.
 ```
 
